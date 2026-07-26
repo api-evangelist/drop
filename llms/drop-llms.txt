@@ -1,0 +1,18 @@
+# Drop
+
+> Drop (formerly Massdrop) is a consumer e-commerce brand operated by Corsair, selling limited-edition, community-driven products across mechanical keyboards, audiophile gear, and licensed gaming collaborations. It runs a direct-to-consumer storefront at drop.com. Drop is a retail brand with no public developer API program; this API Evangelist profile tracks it as a company in the network.
+
+## Company
+- [Website](https://drop.com): Drop direct-to-consumer storefront and gaming collaborations hub (operated by Corsair).
+- [Support Center](https://helpdesk.drop.com/hc/en-us): Zendesk-based customer support and order help.
+
+## Related brands (Corsair family)
+- [CORSAIR](https://www.corsair.com/): Parent company.
+- [Elgato](https://www.elgato.com/)
+- [Origin PC](https://www.originpc.com/)
+- [SCUF Gaming](https://www.scufgaming.com/)
+- [Fanatec](https://fanatec.com/)
+
+## Notes
+- No public developer API, OpenAPI specification, SDKs, MCP server, or webhooks surface was found for drop.com as of 2026-07-18.
+- Investors on record include Cowboy Ventures (Series A, 2014). Acquired by Corsair in 2023.
